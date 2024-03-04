@@ -4,7 +4,8 @@
 	"description": "",
 	"scripts": {
 		"rollup": "rollup -c",
-		"build": "npx rollup -c"
+		"build": "npx rollup -c",
+		"install": "npx rollup -c"
 	},
 	"author": "",
 	"license": "ISC",
