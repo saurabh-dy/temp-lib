@@ -4,6 +4,7 @@
 	"description": "",
 	"scripts": {
 		"rollup": "rollup -c",
+		"prepare": "npm run build",
 		"build": "npx rollup -c"
 	},
 	"author": "",
